@@ -27,3 +27,28 @@
   </font>
 
 </div>
+<div align="center">
+
+  <!-- Текст 1 -->
+  <p style="font-size: 14px; font-family: monospace; line-height: 1.6;">
+    𝄡 main fd: slow damage ࣶ  idv ࣶ  sg  ࣶ gi ࣶ  zzz  ࣶ avatar ࣶ  dw (dni fans) 。
+  </p>
+
+  <br>
+
+  <!-- 1 ФОТО (Уменьшенное) -->
+  <img src="Picsart_26-11-15_22-37-08-186.png" width="280" alt="Main Profile Picture" />
+
+  <br><br>
+
+  <!-- Текст 2 со ссылкой -->
+  <p style="font-size: 14px; font-family: monospace; line-height: 1.6;">
+    ‹𝟹 go 2 my <a href="https://t.me/dilleyskyInf">info</a> 4 more information !
+  </p>
+
+  <br>
+
+  <!-- 2 ФОТО (Уменьшенное) -->
+  <img src="Picsart_26-11-15_22-43-37-656.png" width="280" alt="Second Picture" />
+
+</div>
