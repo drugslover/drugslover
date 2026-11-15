@@ -22,7 +22,7 @@
   <!-- Остальной текст с цветом -->
   <font color="#d4a5a5" size="2" face="monospace">
     𖥻 dni : selfshippers, -13, stupid kids xD<br>
-    dniuf ask 4 frendly friendship n tg .<br>
+    dniuf ask 4 friendship n tg .<br>
     ^_^
   </font>
 
